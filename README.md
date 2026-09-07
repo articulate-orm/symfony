@@ -5,7 +5,7 @@ Symfony integration for the Articulate context-bounded ORM.
 ## Installation
 
 ```bash
-composer require denisyu-1/articulate-symfony
+composer require articulate-orm/symfony
 ```
 
 If Symfony Flex does not enable the bundle automatically, add it manually:
